@@ -1,0 +1,283 @@
+﻿PK_Zona;ID_Zona;Zona;TipoZona;Mapa
+1;1;"ABÁIGAR                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+2;10;"ALTSASU / ALSASUA                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+3;100;"EULATE                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+4;101;"EZCABARTE                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+5;102;"EZKURRA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+6;103;"EZPROGUI                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+7;104;"FALCES                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+8;105;"FITERO                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+9;106;"FONTELLAS                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+10;107;"FUNES                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+11;108;"FUSTIÑANA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+12;109;"GALAR                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+13;11;"ALLÍN / ALLIN                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+14;110;"GALLIPIENZO / GALIPENTZU                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+15;111;"GALLUÉS / GALOZE                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+16;112;"GARAIOA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+17;113;"GARDE                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+18;114;"GARÍNOAIN                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+19;115;"GARRALDA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+20;116;"GENEVILLA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+21;117;"GOIZUETA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+22;118;"GOÑI                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+23;119;"GÜESA / GORZA                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+24;12;"ALLO                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+25;120;"GUESÁLAZ / GESALATZ                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+26;121;"GUIRGUILLANO                                      ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+27;122;"HUARTE / UHARTE                                   ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+28;123;"UHARTE ARAKIL                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+29;124;"IBARGOITI                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+30;125;"IGÚZQUIZA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+31;126;"IMOTZ                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+32;127;"IRAÑETA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+33;128;"ISABA / IZABA                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+34;129;"ITUREN                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+35;13;"AMÉSCOA BAJA                                      ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+36;130;"ITURMENDI                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+37;131;"IZA / ITZA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+38;132;"IZAGAONDOA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+39;133;"IZALZU / ITZALTZU                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+40;134;"JAURRIETA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+41;135;"JAVIER                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+42;136;"JUSLAPEÑA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+43;137;"BEINTZA-LABAIEN                                   ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+44;138;"LAKUNTZA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+45;139;"LANA                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+46;14;"ANCÍN / ANTZIN                                    ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+47;140;"LANTZ                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+48;141;"LAPOBLACIÓN                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+49;142;"LARRAGA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+50;143;"LARRAONA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+51;144;"LARRAUN                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+52;145;"LAZAGURRÍA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+53;146;"LEACHE / LEATXE                                   ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+54;147;"LEGARDA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+55;148;"LEGARIA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+56;149;"LEITZA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+57;15;"ANDOSILLA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+58;150;"LEOZ / LEOTZ                                      ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+59;151;"LERGA                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+60;152;"LERÍN                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+61;153;"LESAKA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+62;154;"LEZAUN                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+63;155;"LIÉDENA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+64;156;"LIZOAIN-ARRIASGOITI                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+65;157;"LODOSA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+66;158;"LÓNGUIDA / LONGIDA                                ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+67;159;"LUMBIER                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+68;16;"ANSOÁIN / ANTSOAIN                                ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+69;160;"LUQUIN                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+70;161;"MAÑERU                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+71;162;"MARAÑÓN                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+72;163;"MARCILLA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+73;164;"MÉLIDA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+74;165;"MENDAVIA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+75;166;"MENDAZA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+76;167;"MENDIGORRÍA                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+77;168;"METAUTEN                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+78;169;"MILAGRO                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+79;17;"ANUE                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+80;170;"MIRAFUENTES                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+81;171;"MIRANDA DE ARGA                                   ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+82;172;"MONREAL / ELO                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+83;173;"MONTEAGUDO                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+84;174;"MORENTIN                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+85;175;"MUÉS                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+86;176;"MURCHANTE                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+87;177;"MURIETA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+88;178;"MURILLO EL CUENDE                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+89;179;"MURILLO EL FRUTO                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+90;18;"AÑORBE                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+91;180;"MURUZÁBAL                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+92;181;"NAVASCUÉS / NABASKOZE                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+93;182;"NAZAR                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+94;183;"OBANOS                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+95;184;"OCO                                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+96;185;"OCHAGAVÍA / OTSAGABIA                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+97;186;"ODIETA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+98;187;"OIZ                                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+99;188;"OLÁIBAR                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+100;189;"OLAZTI / OLAZAGUTÍA                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+101;19;"AOIZ / AGOITZ                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+102;190;"OLEJUA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+103;191;"OLITE / ERRIBERRI                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+104;192;"OLÓRIZ / OLORITZ                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+105;193;"CENDEA DE OLZA / OLTZA ZENDEA                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+106;194;"VALLE DE OLLO / OLLARAN                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+107;195;"ORBAIZETA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+108;196;"ORBARA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+109;197;"ORÍSOAIN                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+110;198;"ORONZ / ORONTZE                                   ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+111;199;"OROZ-BETELU / OROTZ-BETELU                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+112;2;"ABÁRZUZA / ABARTZUZA                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+113;20;"ARAITZ                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+114;200;"OTEIZA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+115;2000_1;"Noroeste                                          ";Navarra 2000;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Navarra 2000.svg
+116;2000_2;"Pirineo                                           ";Navarra 2000;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Navarra 2000.svg
+117;2000_3;"Pamplona y comarca                                ";Navarra 2000;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Navarra 2000.svg
+118;2000_4;"Tierra Estella                                    ";Navarra 2000;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Navarra 2000.svg
+119;2000_5;"Navarra Media Oriental                            ";Navarra 2000;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Navarra 2000.svg
+120;2000_6;"Ribera Alta                                       ";Navarra 2000;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Navarra 2000.svg
+121;2000_7;"Tudela                                            ";Navarra 2000;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Navarra 2000.svg
+122;201;"PAMPLONA / IRUÑA                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+123;202;"PERALTA / AZKOIEN                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+124;203;"PETILLA DE ARAGÓN                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+125;204;"PIEDRAMILLERA                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+126;205;"PITILLAS                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+127;206;"PUENTE LA REINA / GARES                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+128;207;"PUEYO                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+129;208;"RIBAFORADA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+130;209;"ROMANZADO                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+131;21;"ARANARACHE / ARANARATXE                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+132;210;"RONCAL / ERRONKARI                                ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+133;211;"ORREAGA / RONCESVALLES                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+134;212;"SADA                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+135;213;"SALDIAS                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+136;214;"SALINAS DE ORO / JAITZ                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+137;215;"SAN ADRIÁN                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+138;216;"SANGÜESA / ZANGOZA                                ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+139;217;"SAN MARTÍN DE UNX                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+140;219;"SANSOL                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+141;22;"ARANTZA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+142;220;"SANTACARA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+143;221;"DONEZTEBE / SANTESTEBAN                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+144;222;"SARRIÉS / SARTZE                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+145;223;"SARTAGUDA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+146;224;"SESMA                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+147;225;"SORLADA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+148;226;"SUNBILLA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+149;227;"TAFALLA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+150;228;"TIEBAS-MURUARTE DE RETA                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+151;229;"TIRAPU                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+152;23;"ARANGUREN                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+153;230;"TORRALBA DEL RÍO                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+154;231;"TORRES DEL RÍO                                    ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+155;232;"TUDELA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+156;233;"TULEBRAS                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+157;234;"ÚCAR                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+158;235;"UJUÉ/ UXUE                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+159;236;"ULTZAMA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+160;237;"UNCITI                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+161;238;"UNZUÉ / UNTZUE                                    ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+162;239;"URDAZUBI / URDAX                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+163;24;"ARANO                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+164;240;"URDIAIN                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+165;241;"URRAÚL ALTO                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+166;242;"URRAÚL BAJO                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+167;243;"URROZ-VILLA                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+168;244;"URROZ                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+169;245;"URZAINQUI / URZAINKI                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+170;246;"UTERGA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+171;247;"UZTÁRROZ / UZTARROZE                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+172;248;"LUZAIDE / VALCARLOS                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+173;249;"VALTIERRA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+174;25;"ARAKIL                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+175;250;"BERA                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+176;251;"VIANA                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+177;252;"VIDÁNGOZ / BIDANKOZE                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+178;253;"BIDAURRETA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+179;254;"VILLAFRANCA                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+180;255;"VILLAMAYOR DE MONJARDÍN                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+181;256;"HIRIBERRI / VILLANUEVA DE AEZKOA                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+182;257;"VILLATUERTA                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+183;258;"VILLAVA / ATARRABIA                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+184;259;"IGANTZI                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+185;26;"ARAS                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+186;260;"VALLE DE YERRI / DEIERRI                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+187;261;"YESA                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+188;262;"ZABALZA / ZABALTZA                                ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+189;263;"ZUBIETA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+190;264;"ZUGARRAMURDI                                      ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+191;265;"ZÚÑIGA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+192;27;"ARBIZU                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+193;28;"ARCE / ARTZI                                      ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+194;29;"LOS ARCOS                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+195;3;"ABAURREGAINA / ABAURREA ALTA                      ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+196;30;"ARELLANO                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+197;31;"ARESO                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+198;32;"ARGUEDAS                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+199;33;"ARIA                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+200;34;"ARIBE                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+201;35;"ARMAÑANZAS                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+202;36;"ARRÓNIZ                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+203;37;"ARRUAZU                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+204;38;"ARTAJONA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+205;39;"ARTAZU                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+206;4;"ABAURREPEA / ABAURREA BAJA                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+207;40;"ATEZ / ATETZ                                      ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+208;41;"AYEGUI / AIEGI                                    ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+209;42;"AZAGRA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+210;43;"AZUELO                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+211;44;"BAKAIKU                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+212;45;"BARÁSOAIN                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+213;46;"BARBARIN                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+214;47;"BARGOTA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+215;48;"BARILLAS                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+216;49;"BASABURUA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+217;5;"ABERIN                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+218;50;"BAZTAN                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+219;51;"BEIRE                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+220;52;"BELASCOÁIN                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+221;53;"BERBINZANA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+222;54;"BERTIZARANA                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+223;55;"BETELU                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+224;56;"BIURRUN-OLCOZ                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+225;57;"BUÑUEL                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+226;58;"AURITZ / BURGUETE                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+227;59;"BURGUI / BURGI                                    ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+228;6;"ABLITAS                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+229;60;"BURLADA / BURLATA                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+230;61;"EL BUSTO                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+231;62;"CABANILLAS                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+232;63;"CABREDO                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+233;64;"CADREITA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+234;65;"CAPARROSO                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+235;66;"CÁRCAR                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+236;67;"CARCASTILLO                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+237;68;"CASCANTE                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+238;69;"CÁSEDA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+239;7;"ADIÓS                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+240;70;"CASTEJÓN                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+241;71;"CASTILLONUEVO                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+242;72;"CINTRUÉNIGO                                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+243;73;"ZIORDIA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+244;74;"CIRAUQUI / ZIRAUKI                                ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+245;75;"CIRIZA / ZIRITZA                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+246;76;"CIZUR                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+247;77;"CORELLA                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+248;78;"CORTES                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+249;79;"DESOJO                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+250;8;"AGUILAR DE CODÉS                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+251;80;"DICASTILLO                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+252;81;"DONAMARIA                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+253;82;"ETXALAR                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+254;83;"ECHARRI / ETXARRI                                 ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+255;84;"ETXARRI ARANATZ                                   ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+256;85;"ETXAURI                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+257;86;"VALLE DE EGÜÉS / EGUESIBAR                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+258;87;"ELGORRIAGA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+259;88;"NOÁIN (VALLE DE ELORZ) / NOAIN (ELORTZIBAR)       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+260;89;"ENÉRIZ / ENERITZ                                  ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+261;9;"AIBAR / OIBAR                                     ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+262;90;"ERATSUN                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+263;901;"BARAÑÁIN / BARAÑAIN                               ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+264;902;"BERRIOPLANO / BERRIOBEITI                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+265;903;"BERRIOZAR                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+266;904;"IRURTZUN                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+267;905;"BERIÁIN                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+268;906;"ORKOIEN                                           ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+269;907;"ZIZUR MAYOR / ZIZUR NAGUSIA                       ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+270;908;"LEKUNBERRI                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+271;91;"ERGOIENA                                          ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+272;92;"ERRO                                              ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+273;93;"EZCÁROZ / EZKAROZE                                ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+274;94;"ESLAVA                                            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+275;95;"ESPARZA DE SALAZAR / ESPARTZA ZARAITZU            ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+276;96;"ESPRONCEDA                                        ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+277;97;"ESTELLA-LIZARRA                                   ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+278;98;"ESTERIBAR                                         ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+279;99;"ETAYO                                             ";Municipios;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Municipios.svg
+280;L_1;"Vascófona                                         ";Lingüistica;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Lingüistica.svg
+281;L_2;"Mixta                                             ";Lingüistica;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Lingüistica.svg
+282;L_3;"No vascófona                                      ";Lingüistica;https://raw.githubusercontent.com/mcapmon/MapsNavGob/master/Lingüistica.svg

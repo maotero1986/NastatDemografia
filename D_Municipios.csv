@@ -1,0 +1,273 @@
+﻿PK_Municipio;Municipio;FK_ZonaNav2000;FK_ZonaMunicipio;FK_ZonaLing
+1;"ABÁIGAR                                           ";118;1;281
+2;"ABÁRZUZA / ABARTZUZA                              ";118;112;281
+3;"ABAURREGAINA / ABAURREA ALTA                      ";116;195;280
+4;"ABAURREPEA / ABAURREA BAJA                        ";116;206;280
+5;"ABERIN                                            ";118;217;282
+6;"ABLITAS                                           ";121;228;282
+7;"ADIÓS                                             ";117;239;281
+8;"AGUILAR DE CODÉS                                  ";118;250;282
+9;"AIBAR / OIBAR                                     ";119;261;281
+10;"ALTSASU / ALSASUA                                 ";115;2;280
+11;"ALLÍN / ALLIN                                     ";118;13;281
+12;"ALLO                                              ";118;24;282
+13;"AMÉSCOA BAJA                                      ";118;35;281
+14;"ANCÍN / ANTZIN                                    ";118;46;281
+15;"ANDOSILLA                                         ";120;57;282
+16;"ANSOÁIN / ANTSOAIN                                ";117;68;281
+17;"ANUE                                              ";115;79;280
+18;"AÑORBE                                            ";117;90;281
+19;"AOIZ / AGOITZ                                     ";116;101;281
+20;"ARAITZ                                            ";115;113;280
+21;"ARANARACHE / ARANARATXE                           ";118;131;281
+22;"ARANTZA                                           ";115;141;280
+23;"ARANGUREN                                         ";117;152;281
+24;"ARANO                                             ";115;163;280
+25;"ARAKIL                                            ";115;174;280
+26;"ARAS                                              ";118;185;282
+27;"ARBIZU                                            ";115;192;280
+28;"ARCE / ARTZI                                      ";116;193;281
+29;"LOS ARCOS                                         ";118;194;282
+30;"ARELLANO                                          ";118;196;281
+31;"ARESO                                             ";115;197;280
+32;"ARGUEDAS                                          ";121;198;282
+33;"ARIA                                              ";116;199;280
+34;"ARIBE                                             ";116;200;280
+35;"ARMAÑANZAS                                        ";118;201;282
+36;"ARRÓNIZ                                           ";118;202;282
+37;"ARRUAZU                                           ";115;203;280
+38;"ARTAJONA                                          ";119;204;282
+39;"ARTAZU                                            ";117;205;281
+40;"ATEZ / ATETZ                                      ";115;207;280
+41;"AYEGUI / AIEGI                                    ";118;208;282
+42;"AZAGRA                                            ";120;209;282
+43;"AZUELO                                            ";118;210;282
+44;"BAKAIKU                                           ";115;211;280
+45;"BARÁSOAIN                                         ";119;212;282
+46;"BARBARIN                                          ";118;213;282
+47;"BARGOTA                                           ";118;214;281
+48;"BARILLAS                                          ";121;215;282
+49;"BASABURUA                                         ";115;216;280
+50;"BAZTAN                                            ";115;218;280
+51;"BEIRE                                             ";119;219;282
+52;"BELASCOÁIN                                        ";117;220;281
+53;"BERBINZANA                                        ";119;221;282
+54;"BERTIZARANA                                       ";115;222;280
+55;"BETELU                                            ";115;223;280
+56;"BIURRUN-OLCOZ                                     ";117;224;281
+57;"BUÑUEL                                            ";121;225;282
+58;"AURITZ / BURGUETE                                 ";116;226;280
+59;"BURGUI / BURGI                                    ";116;227;281
+60;"BURLADA / BURLATA                                 ";117;229;281
+61;"EL BUSTO                                          ";118;230;282
+62;"CABANILLAS                                        ";121;231;282
+63;"CABREDO                                           ";118;232;281
+64;"CADREITA                                          ";120;233;282
+65;"CAPARROSO                                         ";120;234;282
+66;"CÁRCAR                                            ";120;235;282
+67;"CARCASTILLO                                       ";120;236;282
+68;"CASCANTE                                          ";121;237;282
+69;"CÁSEDA                                            ";119;238;282
+70;"CASTEJÓN                                          ";121;240;282
+71;"CASTILLONUEVO                                     ";116;241;282
+72;"CINTRUÉNIGO                                       ";121;242;282
+73;"ZIORDIA                                           ";115;243;280
+74;"CIRAUQUI / ZIRAUKI                                ";118;244;281
+75;"CIRIZA / ZIRITZA                                  ";117;245;281
+76;"CIZUR                                             ";117;246;281
+77;"CORELLA                                           ";121;247;282
+78;"CORTES                                            ";121;248;282
+79;"DESOJO                                            ";118;249;282
+80;"DICASTILLO                                        ";118;251;281
+81;"DONAMARIA                                         ";115;252;280
+82;"ETXALAR                                           ";115;253;280
+83;"ECHARRI / ETXARRI                                 ";117;254;281
+84;"ETXARRI ARANATZ                                   ";115;255;280
+85;"ETXAURI                                           ";117;256;281
+86;"VALLE DE EGÜÉS / EGUESIBAR                        ";117;257;281
+87;"ELGORRIAGA                                        ";115;258;280
+88;"NOÁIN (VALLE DE ELORZ) / NOAIN (ELORTZIBAR)       ";117;259;282
+89;"ENÉRIZ / ENERITZ                                  ";117;260;281
+90;"ERATSUN                                           ";115;262;280
+91;"ERGOIENA                                          ";115;271;280
+92;"ERRO                                              ";116;272;280
+93;"EZCÁROZ / EZKAROZE                                ";116;273;281
+94;"ESLAVA                                            ";119;274;282
+95;"ESPARZA DE SALAZAR / ESPARTZA ZARAITZU            ";116;275;281
+96;"ESPRONCEDA                                        ";118;276;282
+97;"ESTELLA-LIZARRA                                   ";118;277;281
+98;"ESTERIBAR                                         ";116;278;280
+99;"ETAYO                                             ";118;279;282
+100;"EULATE                                            ";118;3;281
+101;"EZCABARTE                                         ";115;4;281
+102;"EZKURRA                                           ";115;5;280
+103;"EZPROGUI                                          ";119;6;282
+104;"FALCES                                            ";120;7;282
+105;"FITERO                                            ";121;8;282
+106;"FONTELLAS                                         ";121;9;282
+107;"FUNES                                             ";120;10;282
+108;"FUSTIÑANA                                         ";121;11;282
+109;"GALAR                                             ";117;12;281
+110;"GALLIPIENZO / GALIPENTZU                          ";119;14;282
+111;"GALLUÉS / GALOZE                                  ";116;15;281
+112;"GARAIOA                                           ";116;16;280
+113;"GARDE                                             ";116;17;281
+114;"GARÍNOAIN                                         ";119;18;281
+115;"GARRALDA                                          ";116;19;280
+116;"GENEVILLA                                         ";118;20;282
+117;"GOIZUETA                                          ";115;21;280
+118;"GOÑI                                              ";117;22;281
+119;"GÜESA / GORZA                                     ";116;23;281
+120;"GUESÁLAZ / GESALATZ                               ";118;25;281
+121;"GUIRGUILLANO                                      ";117;26;282
+122;"HUARTE / UHARTE                                   ";117;27;281
+123;"UHARTE ARAKIL                                     ";115;28;280
+124;"IBARGOITI                                         ";116;29;282
+125;"IGÚZQUIZA                                         ";118;30;282
+126;"IMOTZ                                             ";115;31;280
+127;"IRAÑETA                                           ";115;32;280
+128;"ISABA / IZABA                                     ";116;33;281
+129;"ITUREN                                            ";115;34;280
+130;"ITURMENDI                                         ";115;36;280
+131;"IZA / ITZA                                        ";117;37;281
+132;"IZAGAONDOA                                        ";116;38;281
+133;"IZALZU / ITZALTZU                                 ";116;39;281
+134;"JAURRIETA                                         ";116;40;281
+135;"JAVIER                                            ";119;41;282
+136;"JUSLAPEÑA                                         ";117;42;281
+137;"BEINTZA-LABAIEN                                   ";115;43;280
+138;"LAKUNTZA                                          ";115;44;280
+139;"LANA                                              ";118;45;282
+140;"LANTZ                                             ";115;47;280
+141;"LAPOBLACIÓN                                       ";118;48;282
+142;"LARRAGA                                           ";119;49;282
+143;"LARRAONA                                          ";118;50;281
+144;"LARRAUN                                           ";115;51;280
+145;"LAZAGURRÍA                                        ";118;52;282
+146;"LEACHE / LEATXE                                   ";119;53;282
+147;"LEGARDA                                           ";117;54;282
+148;"LEGARIA                                           ";118;55;282
+149;"LEITZA                                            ";115;56;280
+150;"LEOZ / LEOTZ                                      ";119;58;281
+151;"LERGA                                             ";119;59;281
+152;"LERÍN                                             ";120;60;282
+153;"LESAKA                                            ";115;61;280
+154;"LEZAUN                                            ";118;62;281
+155;"LIÉDENA                                           ";119;63;282
+156;"LIZOAIN-ARRIASGOITI                               ";116;64;281
+157;"LODOSA                                            ";120;65;282
+158;"LÓNGUIDA / LONGIDA                                ";116;66;281
+159;"LUMBIER                                           ";116;67;282
+160;"LUQUIN                                            ";118;69;282
+161;"MAÑERU                                            ";118;70;282
+162;"MARAÑÓN                                           ";118;71;282
+163;"MARCILLA                                          ";120;72;282
+164;"MÉLIDA                                            ";120;73;282
+165;"MENDAVIA                                          ";120;74;282
+166;"MENDAZA                                           ";118;75;282
+167;"MENDIGORRÍA                                       ";119;76;281
+168;"METAUTEN                                          ";118;77;281
+169;"MILAGRO                                           ";120;78;282
+170;"MIRAFUENTES                                       ";118;80;281
+171;"MIRANDA DE ARGA                                   ";120;81;282
+172;"MONREAL / ELO                                     ";116;82;282
+173;"MONTEAGUDO                                        ";121;83;282
+174;"MORENTIN                                          ";118;84;282
+175;"MUÉS                                              ";118;85;282
+176;"MURCHANTE                                         ";121;86;282
+177;"MURIETA                                           ";118;87;281
+178;"MURILLO EL CUENDE                                 ";120;88;282
+179;"MURILLO EL FRUTO                                  ";120;89;282
+180;"MURUZÁBAL                                         ";117;91;282
+181;"NAVASCUÉS / NABASKOZE                             ";116;92;282
+182;"NAZAR                                             ";118;93;281
+183;"OBANOS                                            ";117;94;281
+184;"OCO                                               ";118;95;282
+185;"OCHAGAVÍA / OTSAGABIA                             ";116;96;281
+186;"ODIETA                                            ";115;97;281
+187;"OIZ                                               ";115;98;280
+188;"OLÁIBAR                                           ";115;99;281
+189;"OLAZTI / OLAZAGUTÍA                               ";115;100;280
+190;"OLEJUA                                            ";118;102;282
+191;"OLITE / ERRIBERRI                                 ";119;103;281
+192;"OLÓRIZ / OLORITZ                                  ";119;104;282
+193;"CENDEA DE OLZA / OLTZA ZENDEA                     ";117;105;281
+194;"VALLE DE OLLO / OLLARAN                           ";117;106;281
+195;"ORBAIZETA                                         ";116;107;280
+196;"ORBARA                                            ";116;108;280
+197;"ORÍSOAIN                                          ";119;109;282
+198;"ORONZ / ORONTZE                                   ";116;110;281
+199;"OROZ-BETELU / OROTZ-BETELU                        ";116;111;281
+200;"OTEIZA                                            ";118;114;281
+201;"PAMPLONA / IRUÑA                                  ";117;122;281
+202;"PERALTA / AZKOIEN                                 ";120;123;282
+203;"PETILLA DE ARAGÓN                                 ";119;124;282
+204;"PIEDRAMILLERA                                     ";118;125;282
+205;"PITILLAS                                          ";119;126;282
+206;"PUENTE LA REINA / GARES                           ";117;127;281
+207;"PUEYO                                             ";119;128;281
+208;"RIBAFORADA                                        ";121;129;282
+209;"ROMANZADO                                         ";116;130;282
+210;"RONCAL / ERRONKARI                                ";116;132;281
+211;"ORREAGA / RONCESVALLES                            ";116;133;280
+212;"SADA                                              ";119;134;282
+213;"SALDIAS                                           ";115;135;280
+214;"SALINAS DE ORO / JAITZ                            ";118;136;281
+215;"SAN ADRIÁN                                        ";120;137;282
+216;"SANGÜESA / ZANGOZA                                ";119;138;281
+217;"SAN MARTÍN DE UNX                                 ";119;139;282
+219;"SANSOL                                            ";118;140;282
+220;"SANTACARA                                         ";120;142;282
+221;"DONEZTEBE / SANTESTEBAN                           ";115;143;280
+222;"SARRIÉS / SARTZE                                  ";116;144;281
+223;"SARTAGUDA                                         ";120;145;282
+224;"SESMA                                             ";120;146;282
+225;"SORLADA                                           ";118;147;282
+226;"SUNBILLA                                          ";115;148;280
+227;"TAFALLA                                           ";119;149;281
+228;"TIEBAS-MURUARTE DE RETA                           ";117;150;281
+229;"TIRAPU                                            ";117;151;281
+230;"TORRALBA DEL RÍO                                  ";118;153;282
+231;"TORRES DEL RÍO                                    ";118;154;282
+232;"TUDELA                                            ";121;155;282
+233;"TULEBRAS                                          ";121;156;282
+234;"ÚCAR                                              ";117;157;282
+235;"UJUÉ/ UXUE                                        ";119;158;281
+236;"ULTZAMA                                           ";115;159;280
+237;"UNCITI                                            ";116;160;282
+238;"UNZUÉ / UNTZUE                                    ";119;161;281
+239;"URDAZUBI / URDAX                                  ";115;162;280
+240;"URDIAIN                                           ";115;164;280
+241;"URRAÚL ALTO                                       ";116;165;282
+242;"URRAÚL BAJO                                       ";116;166;281
+243;"URROZ-VILLA                                       ";116;167;281
+244;"URROZ                                             ";115;168;280
+245;"URZAINQUI / URZAINKI                              ";116;169;281
+246;"UTERGA                                            ";117;170;282
+247;"UZTÁRROZ / UZTARROZE                              ";116;171;281
+248;"LUZAIDE / VALCARLOS                               ";116;172;280
+249;"VALTIERRA                                         ";121;173;282
+250;"BERA                                              ";115;175;280
+251;"VIANA                                             ";118;176;282
+252;"VIDÁNGOZ / BIDANKOZE                              ";116;177;281
+253;"BIDAURRETA                                        ";117;178;281
+254;"VILLAFRANCA                                       ";120;179;282
+255;"VILLAMAYOR DE MONJARDÍN                           ";118;180;282
+256;"HIRIBERRI / VILLANUEVA DE AEZKOA                  ";116;181;280
+257;"VILLATUERTA                                       ";118;182;281
+258;"VILLAVA / ATARRABIA                               ";117;183;281
+259;"IGANTZI                                           ";115;184;280
+260;"VALLE DE YERRI / DEIERRI                          ";118;186;281
+261;"YESA                                              ";119;187;282
+262;"ZABALZA / ZABALTZA                                ";117;188;281
+263;"ZUBIETA                                           ";115;189;280
+264;"ZUGARRAMURDI                                      ";115;190;280
+265;"ZÚÑIGA                                            ";118;191;281
+901;"BARAÑÁIN / BARAÑAIN                               ";117;263;281
+902;"BERRIOPLANO / BERRIOBEITI                         ";117;264;281
+903;"BERRIOZAR                                         ";117;265;281
+904;"IRURTZUN                                          ";115;266;280
+905;"BERIÁIN                                           ";117;267;281
+906;"ORKOIEN                                           ";117;268;281
+907;"ZIZUR MAYOR / ZIZUR NAGUSIA                       ";117;269;281
+908;"LEKUNBERRI                                        ";115;270;280

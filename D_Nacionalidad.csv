@@ -1,0 +1,219 @@
+﻿PK_Nacionalidad;Nacionalidad;Continente;Extranjero
+101;"ALBANIA                                                                         ";"Europa (excepto España)                 ";2
+102;"AUSTRIA                                                                         ";"Europa (excepto España)                 ";2
+103;"BÉLGICA                                                                         ";"Europa (excepto España)                 ";2
+104;"BULGARIA                                                                        ";"Europa (excepto España)                 ";2
+105;"CHECOSLOVAQUIA                                                                  ";"Europa (excepto España)                 ";2
+106;"CHIPRE                                                                          ";"Europa (excepto España)                 ";2
+107;"DINAMARCA                                                                       ";"Europa (excepto España)                 ";2
+108;"ESPAÑA                                                                          ";"España                                  ";1
+109;"FINLANDIA                                                                       ";"Europa (excepto España)                 ";2
+110;"FRANCIA                                                                         ";"Europa (excepto España)                 ";2
+111;"GRECIA                                                                          ";"Europa (excepto España)                 ";2
+112;"HUNGRÍA                                                                         ";"Europa (excepto España)                 ";2
+113;"IRLANDA                                                                         ";"Europa (excepto España)                 ";2
+114;"ISLANDIA                                                                        ";"Europa (excepto España)                 ";2
+115;"ITALIA                                                                          ";"Europa (excepto España)                 ";2
+116;"LIECHTENSTEIN                                                                   ";"Europa (excepto España)                 ";2
+117;"LUXEMBURGO                                                                      ";"Europa (excepto España)                 ";2
+118;"MALTA                                                                           ";"Europa (excepto España)                 ";2
+119;"MÓNACO                                                                          ";"Europa (excepto España)                 ";2
+120;"NORUEGA                                                                         ";"Europa (excepto España)                 ";2
+121;"PAÍSES BAJOS                                                                    ";"Europa (excepto España)                 ";2
+122;"POLONIA                                                                         ";"Europa (excepto España)                 ";2
+123;"PORTUGAL                                                                        ";"Europa (excepto España)                 ";2
+124;"ANDORRA                                                                         ";"Europa (excepto España)                 ";2
+125;"REINO UNIDO                                                                     ";"Europa (excepto España)                 ";2
+126;"ALEMANIA                                                                        ";"Europa (excepto España)                 ";2
+127;"REPÚBLICA DEMOCRÁTICA ALEMANA                                                   ";"Europa (excepto España)                 ";2
+128;"RUMANÍA                                                                         ";"Europa (excepto España)                 ";2
+129;"SAN MARINO                                                                      ";"Europa (excepto España)                 ";2
+130;"SANTA SEDE                                                                      ";"Europa (excepto España)                 ";2
+131;"SUECIA                                                                          ";"Europa (excepto España)                 ";2
+132;"SUIZA                                                                           ";"Europa (excepto España)                 ";2
+133;"U.R.S.S., UNIÓN SOVIÉTICA                                                       ";"Europa (excepto España)                 ";2
+134;"ANTIGUA YUGOSLAVIA                                                              ";"Europa (excepto España)                 ";2
+135;"UCRANIA                                                                         ";"Europa (excepto España)                 ";2
+136;"LETONIA                                                                         ";"Europa (excepto España)                 ";2
+137;"MOLDAVIA anterior MOLDAVA                                                       ";"Europa (excepto España)                 ";2
+138;"BELARÚS anterior BIELORRUSIA                                                    ";"Europa (excepto España)                 ";2
+139;"GEORGIA                                                                         ";"Europa (excepto España)                 ";2
+140;"AZERBAIYÁN                                                                      ";"Europa (excepto España)                 ";2
+141;"ESTONIA                                                                         ";"Europa (excepto España)                 ";2
+142;"LITUANIA                                                                        ";"Europa (excepto España)                 ";2
+143;"REPÚBLICA CHECA                                                                 ";"Europa (excepto España)                 ";2
+144;"REPÚBLICA ESLOVACA                                                              ";"Europa (excepto España)                 ";2
+145;"BOSNIA Y HERZEGOVINA                                                            ";"Europa (excepto España)                 ";2
+146;"CROACIA                                                                         ";"Europa (excepto España)                 ";2
+147;"ESLOVENIA                                                                       ";"Europa (excepto España)                 ";2
+148;"ARMENIA                                                                         ";"Europa (excepto España)                 ";2
+149;"KAZAJSTÁN                                                                       ";"Europa (excepto España)                 ";2
+150;"KIRGUISTÁN                                                                      ";"Europa (excepto España)                 ";2
+151;"TADYIKISTÁN                                                                     ";"Europa (excepto España)                 ";2
+152;"TURKMENISTÁN                                                                    ";"Europa (excepto España)                 ";2
+153;"UZBEKISTÁN                                                                      ";"Europa (excepto España)                 ";2
+154;"RUSIA                                                                           ";"Europa (excepto España)                 ";2
+155;"SERBIA Y MONTENEGRO / ANTERIOR YUGOSLAVIA                                       ";"Europa (excepto España)                 ";2
+156;"MACEDONIA                                                                       ";"Europa (excepto España)                 ";2
+157;"SERBIA                                                                          ";"Europa (excepto España)                 ";2
+158;"MONTENEGRO                                                                      ";"Europa (excepto España)                 ";2
+199;"OTROS PAÍSES DE EUROPA                                                          ";"Europa (excepto España)                 ";2
+201;"BURKINA FASO                                                                    ";"África                                  ";2
+202;"ANGOLA                                                                          ";"África                                  ";2
+203;"ARGELIA                                                                         ";"África                                  ";2
+204;"BENIN                                                                           ";"África                                  ";2
+205;"BOTSWANA                                                                        ";"África                                  ";2
+206;"BURUNDI                                                                         ";"África                                  ";2
+207;"CABO VERDE                                                                      ";"África                                  ";2
+208;"CAMERÚN                                                                         ";"África                                  ";2
+209;"COMORES                                                                         ";"África                                  ";2
+210;"CONGO                                                                           ";"África                                  ";2
+211;"COSTA DE MARFIL                                                                 ";"África                                  ";2
+212;"DJIBOUTI                                                                        ";"África                                  ";2
+213;"EGIPTO                                                                          ";"África                                  ";2
+214;"ETIOPÍA                                                                         ";"África                                  ";2
+215;"GABÓN                                                                           ";"África                                  ";2
+216;"GAMBIA                                                                          ";"África                                  ";2
+217;"GHANA                                                                           ";"África                                  ";2
+218;"GUINEA                                                                          ";"África                                  ";2
+219;"GUINEA-BISSAU                                                                   ";"África                                  ";2
+220;"GUINEA ECUATORIAL                                                               ";"África                                  ";2
+221;"KENIA                                                                           ";"África                                  ";2
+222;"LESOTHO                                                                         ";"África                                  ";2
+223;"LIBERIA                                                                         ";"África                                  ";2
+224;"LIBIA                                                                           ";"África                                  ";2
+225;"MADAGASCAR                                                                      ";"África                                  ";2
+226;"MALAWI                                                                          ";"África                                  ";2
+227;"MALI                                                                            ";"África                                  ";2
+228;"MARRUECOS                                                                       ";"África                                  ";2
+229;"MAURICIO                                                                        ";"África                                  ";2
+230;"MAURITANIA                                                                      ";"África                                  ";2
+231;"MOZAMBIQUE                                                                      ";"África                                  ";2
+232;"NAMIBIA                                                                         ";"África                                  ";2
+233;"NÍGER                                                                           ";"África                                  ";2
+234;"NIGERIA                                                                         ";"África                                  ";2
+235;"REPÚBLICA CENTROAFRICANA                                                        ";"África                                  ";2
+236;"SUDÁFRICA                                                                       ";"África                                  ";2
+237;"RUANDA                                                                          ";"África                                  ";2
+238;"SANTO TOMÉ Y PRÍNCIPE                                                           ";"África                                  ";2
+239;"SENEGAL                                                                         ";"África                                  ";2
+240;"SEYCHELLES                                                                      ";"África                                  ";2
+241;"SIERRA LEONA                                                                    ";"África                                  ";2
+242;"SOMALIA                                                                         ";"África                                  ";2
+243;"SUDÁN                                                                           ";"África                                  ";2
+244;"SWAZILANDIA                                                                     ";"África                                  ";2
+245;"TANZANIA                                                                        ";"África                                  ";2
+246;"CHAD                                                                            ";"África                                  ";2
+247;"TOGO                                                                            ";"África                                  ";2
+248;"TÚNEZ                                                                           ";"África                                  ";2
+249;"UGANDA                                                                          ";"África                                  ";2
+250;"REPÚBLICA DEMOCRÁTICA DEL CONGO anterior ZAIRE                                  ";"África                                  ";2
+251;"ZAMBIA                                                                          ";"África                                  ";2
+252;"ZIMBABWE                                                                        ";"África                                  ";2
+253;"ERITREA                                                                         ";"África                                  ";2
+254;"SUDÁN DEL SUR                                                                   ";"África                                  ";2
+299;"OTROS PAÍSES DE ÁFRICA                                                          ";"África                                  ";2
+301;"CANADÁ                                                                          ";"America                                 ";2
+302;"ESTADOS UNIDOS DE AMÉRICA                                                       ";"America                                 ";2
+303;"MÉXICO                                                                          ";"America                                 ";2
+310;"ANTIGUA Y BARBUDA                                                               ";"America                                 ";2
+311;"BAHAMAS                                                                         ";"America                                 ";2
+312;"BARBADOS                                                                        ";"America                                 ";2
+313;"BELICE                                                                          ";"America                                 ";2
+314;"COSTA RICA                                                                      ";"America                                 ";2
+315;"CUBA                                                                            ";"America                                 ";2
+316;"DOMINICA                                                                        ";"America                                 ";2
+317;"EL SALVADOR                                                                     ";"America                                 ";2
+318;"GRANADA                                                                         ";"America                                 ";2
+319;"GUATEMALA                                                                       ";"America                                 ";2
+320;"HAITÍ                                                                           ";"America                                 ";2
+321;"HONDURAS                                                                        ";"America                                 ";2
+322;"JAMAICA                                                                         ";"America                                 ";2
+323;"NICARAGUA                                                                       ";"America                                 ";2
+324;"PANAMÁ                                                                          ";"America                                 ";2
+325;"SAN VICENTE Y LAS GRANADINAS                                                    ";"America                                 ";2
+326;"REPÚBLICA DOMINICANA                                                            ";"America                                 ";2
+327;"TRINIDAD Y TOBAGO                                                               ";"America                                 ";2
+328;"SANTA LUCÍA                                                                     ";"America                                 ";2
+329;"SAN CRISTÓBAL Y NIEVES                                                          ";"America                                 ";2
+340;"ARGENTINA                                                                       ";"America                                 ";2
+341;"BOLIVIA                                                                         ";"America                                 ";2
+342;"BRASIL                                                                          ";"America                                 ";2
+343;"COLOMBIA                                                                        ";"America                                 ";2
+344;"CHILE                                                                           ";"America                                 ";2
+345;"ECUADOR                                                                         ";"America                                 ";2
+346;"GUYANA                                                                          ";"America                                 ";2
+347;"PARAGUAY                                                                        ";"America                                 ";2
+348;"PERÚ                                                                            ";"America                                 ";2
+349;"SURINAM                                                                         ";"America                                 ";2
+350;"URUGUAY                                                                         ";"America                                 ";2
+351;"VENEZUELA                                                                       ";"America                                 ";2
+399;"OTROS PAÍSES DE AMÉRICA                                                         ";"America                                 ";2
+401;"AFGANISTÁN                                                                      ";"Asia                                    ";2
+402;"ARABIA SAUDÍ                                                                    ";"Asia                                    ";2
+403;"BAHRÉIN                                                                         ";"Asia                                    ";2
+404;"BANGLADESH                                                                      ";"Asia                                    ";2
+405;"MYANMAR                                                                         ";"Asia                                    ";2
+407;"CHINA                                                                           ";"Asia                                    ";2
+408;"EMIRATOS ÁRABES UNIDOS                                                          ";"Asia                                    ";2
+409;"FILIPINAS                                                                       ";"Asia                                    ";2
+410;"INDIA                                                                           ";"Asia                                    ";2
+411;"INDONESIA                                                                       ";"Asia                                    ";2
+412;"IRAQ                                                                            ";"Asia                                    ";2
+413;"IRÁN                                                                            ";"Asia                                    ";2
+414;"ISRAEL                                                                          ";"Asia                                    ";2
+415;"JAPÓN                                                                           ";"Asia                                    ";2
+416;"JORDANIA                                                                        ";"Asia                                    ";2
+417;"CAMBOYA                                                                         ";"Asia                                    ";2
+418;"KUWAIT                                                                          ";"Asia                                    ";2
+419;"LAOS                                                                            ";"Asia                                    ";2
+420;"LÍBANO                                                                          ";"Asia                                    ";2
+421;"MALASIA                                                                         ";"Asia                                    ";2
+422;"MALDIVAS                                                                        ";"Asia                                    ";2
+423;"MONGOLIA                                                                        ";"Asia                                    ";2
+424;"NEPAL                                                                           ";"Asia                                    ";2
+425;"OMÁN                                                                            ";"Asia                                    ";2
+426;"PAKISTÁN                                                                        ";"Asia                                    ";2
+427;"QATAR                                                                           ";"Asia                                    ";2
+428;"YEMEN (SANA)                                                                    ";"Asia                                    ";2
+429;"YEMEN (ADEN) (FEDERACIÓN DE ARABIA DEL SUR)                                     ";"Asia                                    ";2
+430;"COREA                                                                           ";"Asia                                    ";2
+431;"COREA DEL NORTE                                                                 ";"Asia                                    ";2
+432;"SINGAPUR                                                                        ";"Asia                                    ";2
+433;"SIRIA                                                                           ";"Asia                                    ";2
+434;"SRI LANKA                                                                       ";"Asia                                    ";2
+435;"TAILANDIA                                                                       ";"Asia                                    ";2
+436;"TURQUÍA                                                                         ";"Asia                                    ";2
+437;"VIETNAM                                                                         ";"Asia                                    ";2
+439;"BRUNEI                                                                          ";"Asia                                    ";2
+440;"ISLAS MARSHALL                                                                  ";"Asia                                    ";2
+441;"YEMEN                                                                           ";"Asia                                    ";2
+442;"AZERBAIYÁN                                                                      ";"Asia                                    ";2
+443;"KAZAJSTÁN                                                                       ";"Asia                                    ";2
+444;"KIRGUISTÁN                                                                      ";"Asia                                    ";2
+445;"TAYIKISTÁN anterior TADYIKISTÁN                                                 ";"Asia                                    ";2
+446;"TURKMENISTÁN                                                                    ";"Asia                                    ";2
+447;"UZBEKISTÁN                                                                      ";"Asia                                    ";2
+448;"BHUTÁN                                                                          ";"Asia                                    ";2
+449;"PALESTINA. ESTADO OBSERVADOR, NO MIEMBRO DE NACIONES UNIDAS                     ";"Asia                                    ";2
+499;"OTROS PAÍSES DE ASIA                                                            ";"Asia                                    ";2
+501;"AUSTRALIA                                                                       ";"Oceanía                                 ";2
+502;"FIJI                                                                            ";"Oceanía                                 ";2
+504;"NUEVA ZELANDA                                                                   ";"Oceanía                                 ";2
+505;"PAPÚA NUEVA GUINEA                                                              ";"Oceanía                                 ";2
+506;"ISLAS SALOMÓN                                                                   ";"Oceanía                                 ";2
+507;"SAMOA                                                                           ";"Oceanía                                 ";2
+508;"TONGA                                                                           ";"Oceanía                                 ";2
+509;"VANUATU                                                                         ";"Oceanía                                 ";2
+511;"MICRONESIA                                                                      ";"Oceanía                                 ";2
+512;"TUVALU                                                                          ";"Oceanía                                 ";2
+513;"ISLAS COOK                                                                      ";"Oceanía                                 ";2
+514;"KIRIBATI                                                                        ";"Oceanía                                 ";2
+515;"NAURU                                                                           ";"Oceanía                                 ";2
+516;"PALAOS                                                                          ";"Oceanía                                 ";2
+517;"TIMOR ORIENTAL                                                                  ";"Oceanía                                 ";2
+555;"APÁTRIDAS                                                                       ";"Apatridas                               ";2
+599;"OTROS PAÍSES DE OCEANÍA                                                         ";"Oceanía                                 ";2
+600;"PALESTINA                                                                       ";"Asia                                    ";2
+966;"ANTIGUOS TERRITORIOS DE SOBERANÍA ESPAÑOLA                                      ";"España                                  ";2
+999;"NO CONSTA                                                                       ";"No consta                               ";2

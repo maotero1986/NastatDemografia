@@ -1,0 +1,12 @@
+﻿PK_NivelEstudios;NivelEstudios
+0;No consta
+1;No sabe leer o escribir
+2;Sabe leer y escribir pero fue menos de 5 años a la escuela
+3;Fue a la escuela 5 años o más pero sin completar EGB, ESO o Bachiller elemental
+4;Bachiller Elemental, EGB o ESO completa (Graduado escolar)
+5;Bachiller superior, BUP, Bachiller LOGSE, COU, PREU
+6;FPI, FP grado medio, Oficilia industrial o equivalente
+7;FPII, FP superior, Maestria industrial o equivalente
+8;Diplomatura, Arquitectura o Ingeniería Técnica
+9;Arquitectura, Ingeniería, Licenciatura o equivalente
+10;Doctorado
